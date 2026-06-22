@@ -1,27 +1,33 @@
 # 🚀 SIGECON – Sistema Inteligente de Gestão de Contratos e Indicadores
 
-🔗 Acesse o projeto:  
-https://nataliapastre-dev.github.io/SIGICON-Sistema-de-Gest-o-de-Contratos/#/login
+🔗 Acesse o sistema online:  
+http://nataliapastre-dev.github.io/SIGICON-Sistema-de-Gest-o-de-Contratos/#/login
+
+---
+
+## 📸 Demonstração
+
+![SIGECON](https://i.postimg.cc/wvNNMvzz/Chat-GPT-Image-22-de-jun-de-2026-19-25-56.png)
 
 ---
 
 ## 📊 Sobre o projeto
 
-O **SIGECON** é um sistema web desenvolvido para gestão de contratos, fornecedores e indicadores empresariais, com foco em organização, controle de dados e apoio à tomada de decisão.
+O **SIGECON** é um sistema web completo para gestão de contratos, fornecedores e indicadores empresariais.
 
-O projeto simula um ambiente corporativo real, integrando dashboard, regras de negócio e visualização de dados.
+O objetivo é simular um ambiente corporativo real, com dashboards, controle de dados e análise de performance.
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- 🔐 Sistema de login
+- 🔐 Login de acesso
 - 📄 Gestão de contratos
 - 🏢 Cadastro de fornecedores
 - 📊 Dashboard com indicadores
-- 📈 Gráficos e métricas
+- 📈 Gráficos analíticos
 - ⏰ Alertas de vencimento
-- 📤 Exportação de dados (PDF)
+- 📤 Exportação de dados
 
 ---
 
@@ -29,7 +35,7 @@ O projeto simula um ambiente corporativo real, integrando dashboard, regras de n
 
 - React
 - Vite
-- React Router DOM
+- React Router DOM (HashRouter)
 - Recharts
 - JavaScript (ES6+)
 - CSS3
@@ -38,26 +44,28 @@ O projeto simula um ambiente corporativo real, integrando dashboard, regras de n
 
 ## 🎯 Diferencial
 
-Projeto desenvolvido com base em experiência real na área administrativa, aplicando:
+Projeto baseado em experiência real na área administrativa, aplicando tecnologia para:
 
-- Gestão de processos
-- Análise de dados
-- Criação de dashboards
-- Automação de indicadores
-- Estrutura de sistema corporativo
-
----
-
-## 🚀 Objetivo
-
-Este projeto faz parte do meu portfólio como desenvolvedora Front-end / Full Stack em transição de carreira para tecnologia.
+- Controle de processos
+- Análise de indicadores
+- Gestão de contratos
+- Visualização de dados
+- Automação de informações
 
 ---
 
-## 👩‍💻 Autora
+## 🚀 Status do projeto
+
+✔ Deploy concluído  
+✔ Funcionando no GitHub Pages  
+✔ Login e rotas operacionais  
+✔ Projeto pronto para portfólio profissional  
+
+---
+
+## 👩‍💻 Desenvolvido por
 
 **Natália Baptista Pastre**
 
 🔗 LinkedIn: https://www.linkedin.com/in/nataliapastre-dev/  
 📧 Email: natalia.pastre@yahoo.com.br  
-📱 WhatsApp: (16) 99713-5203
