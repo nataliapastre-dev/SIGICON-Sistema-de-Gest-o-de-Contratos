@@ -8,9 +8,8 @@
 ## 📸 Demonstração
 
 <p align="center">
-  <img src="https://i.postimg.cc/wvNNMvzz/Chat-GPT-Image-22-de-jun-de-2026-19-25-56.png" width="650"/>
+  <img src="https://i.postimg.cc/wvNNMvzz/Chat-GPT-Image-22-de-jun-de-2026-19-25-56.png" width="500"/>
 </p>
-
 ---
 
 ## 📊 Sobre o projeto
