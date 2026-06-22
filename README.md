@@ -1,16 +1,63 @@
-# React + Vite
+# 🚀 SIGECON – Sistema Inteligente de Gestão de Contratos e Indicadores
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔗 Acesse o projeto:  
+https://nataliapastre-dev.github.io/SIGICON-Sistema-de-Gest-o-de-Contratos/#/login
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📊 Sobre o projeto
 
-## React Compiler
+O **SIGECON** é um sistema web desenvolvido para gestão de contratos, fornecedores e indicadores empresariais, com foco em organização, controle de dados e apoio à tomada de decisão.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O projeto simula um ambiente corporativo real, integrando dashboard, regras de negócio e visualização de dados.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Funcionalidades
+
+- 🔐 Sistema de login
+- 📄 Gestão de contratos
+- 🏢 Cadastro de fornecedores
+- 📊 Dashboard com indicadores
+- 📈 Gráficos e métricas
+- ⏰ Alertas de vencimento
+- 📤 Exportação de dados (PDF)
+
+---
+
+## 🧠 Tecnologias utilizadas
+
+- React
+- Vite
+- React Router DOM
+- Recharts
+- JavaScript (ES6+)
+- CSS3
+
+---
+
+## 🎯 Diferencial
+
+Projeto desenvolvido com base em experiência real na área administrativa, aplicando:
+
+- Gestão de processos
+- Análise de dados
+- Criação de dashboards
+- Automação de indicadores
+- Estrutura de sistema corporativo
+
+---
+
+## 🚀 Objetivo
+
+Este projeto faz parte do meu portfólio como desenvolvedora Front-end / Full Stack em transição de carreira para tecnologia.
+
+---
+
+## 👩‍💻 Autora
+
+**Natália Baptista Pastre**
+
+🔗 LinkedIn: https://www.linkedin.com/in/nataliapastre-dev/  
+📧 Email: natalia.pastre@yahoo.com.br  
+📱 WhatsApp: (16) 99713-5203
